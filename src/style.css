@@ -1,0 +1,37 @@
+body {
+  background-color: rgb(47, 59, 59);
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+#randomize {
+  border-radius: 5px;
+  width: 100px;
+  margin: auto;
+  cursor: pointer;
+  background-color: rgb(146, 125, 98);
+  color: antiquewhite;
+}
+
+#superCard {
+  border-radius: 10px;
+}
+
+#cardDiv {
+  background-color: gray;
+  width: 25%;
+  margin: auto;
+  padding: 20px 0px;
+  border-radius: 20px;
+}
+
+#name {
+  color: cyan
+}
+
+#titulo {
+  color: rgb(69, 133, 111);
+}
